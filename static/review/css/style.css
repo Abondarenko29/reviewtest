@@ -1,0 +1,28 @@
+.background-color {
+    background-color:#9e940d
+}
+
+h1.center {
+    text-align: center;
+    font-family: bold !important;
+    color: #0f0d9e;
+}
+
+div.review {
+    margin:30px;
+    padding:10px;
+}
+
+span.head {
+    display:flex;
+}
+
+footer {
+    text-align: center;
+}
+
+nav.blue {
+    background-color:#0f0d9e !important;
+    margin:10px;
+    border-radius:15px;
+}
